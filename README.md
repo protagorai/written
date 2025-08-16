@@ -1,9 +1,7 @@
-# FILE: README.md
-
-🧭📄  ROTATE → EXPORT → OCR  🤖📊  
+🧭📄  EXPORT / ROTATE / OCR  🤖📊  
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━  
-⟲  Auto-orient scanned pages (LTR text)  
 🖼  Export PDFs to page images  
+⟲  Auto-orient scanned pages (LTR text)  
 🤖  Batch OCR with a multimodal model  
 ✅  Validate results and save JSON
 
