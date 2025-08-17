@@ -25,7 +25,7 @@
 > All tools are CLI-first, single-file scripts: easy to skim, easy to hack.
 
 
-## Quickstart (5 minutes)
+## Quickstart
 
 1) Create & activate a virtual environment (recommended)
 
