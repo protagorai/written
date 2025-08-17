@@ -111,7 +111,7 @@ Pictogram of the flow:
     ├── ocr_batch_submit.py
     ├── env_setup.py
     ├── .env.template
-    ├── prompt.txt            # you create this
+    ├── prompt.txt            # you update this to match expectations, demo included
     ├── liste.txt             # optional
     ├── images/               # output of export.py
     └── json/                 # output of ocr_batch_submit.py
