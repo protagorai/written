@@ -7,11 +7,11 @@
 
 ## What’s in this repo?
 
+- `export.py` — Export each PDF page to an image (PNG/JPEG/TIFF…).
+
 - `orient.py` — Auto-rotate images to upright (0/90/180/270).  
   Two-stage logic: (A) layout signal to separate {0,180} vs {90,270};  
   (B) 0↔180 disambiguation using OCR confidence + margin asymmetry.
-
-- `export.py` — Export each PDF page to an image (PNG/JPEG/TIFF…).
 
 - `ocr_batch_submit.py` — Group page images, send to a multimodal model  
   (e.g., `gpt-5-thinking`), capture strict JSON, then ask a second  
